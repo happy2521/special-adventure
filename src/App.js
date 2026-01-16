@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        hemant this idot and very idot
         </a>
       </header>
     </div>
